@@ -1,1 +1,1 @@
-# hotelSimpleApp
+# HotelSimpleApp
